@@ -1,6 +1,6 @@
-# flutter_lifestyle
+# My Carbon Offset Hero
 
-A new Flutter project.
+Green-to-earn lifestyle app that lets people track their personal carbon offsets and earn money through a carbon credits market
 
 ## Getting Started
 
